@@ -1,0 +1,1 @@
+{"name":"yaswanth-portfolio","version":"1.0.0","private":true,"scripts":{"test":"node --test portfolio.test.js","serve":"npx serve ."},"dependencies":{"@netlify/blobs":"^11.1.6"},"devDependencies":{"jsdom":"^26.0.0"}}
